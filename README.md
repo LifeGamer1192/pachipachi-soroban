@@ -2,7 +2,7 @@
 
 ちいさな子（4〜6さい）のための、指で玉を動かすそろばんです。iPad・スマホ・PC のブラウザで遊べます。
 
-**あそぶ**: https://lifegamer1192.github.io/pachipachi-soroban/
+**あそぶ**: https://iro-logic.vercel.app/soroban/ （予備: https://lifegamer1192.github.io/pachipachi-soroban/）
 
 ## できること
 
